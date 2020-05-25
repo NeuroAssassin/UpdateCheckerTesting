@@ -9,3 +9,4 @@ Testing for update checker cog
 6. Testing whitelist now
 7. H
 8. E
+9. L
