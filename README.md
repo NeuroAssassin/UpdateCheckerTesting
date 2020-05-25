@@ -7,3 +7,4 @@ Testing for update checker cog
 4. Forgot the f in an f-string.
 5. Rate limiting
 6. Testing whitelist now
+7. H
