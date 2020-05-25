@@ -6,3 +6,4 @@ Testing for update checker cog
 3. Forgot to update commit message.
 4. Forgot the f in an f-string.
 5. Rate limiting
+6. Testing whitelist now
