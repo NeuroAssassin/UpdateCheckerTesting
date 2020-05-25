@@ -8,3 +8,4 @@ Testing for update checker cog
 5. Rate limiting
 6. Testing whitelist now
 7. H
+8. E
